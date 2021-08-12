@@ -7,9 +7,7 @@ import java.net.URISyntaxException;
 public class Main {
 
     public static void main(String[] args) throws IOException, URISyntaxException {
-	// write your code here
-        /**String genre = "atif aslam";
-        YoutubeSearchJava first = new YoutubeSearchJava(genre); */
+        // RUN THIS CLASS to trigger project
         InteractiveScannerClass trigger = new InteractiveScannerClass();
 
     }
