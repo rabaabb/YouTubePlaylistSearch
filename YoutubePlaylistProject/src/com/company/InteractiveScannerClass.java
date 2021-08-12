@@ -7,7 +7,6 @@ public class InteractiveScannerClass {
     public InteractiveScannerClass() throws IOException, URISyntaxException {
         introductionScript();
         search();
-
     }
     public void introductionScript() {
         System.out.println("Welcome!");
